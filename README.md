@@ -1,4 +1,4 @@
-##Connectomatic
+# Connectomatic
 
 Add intelligence to your connections. Remember who you met at events. Find that person your friend needs an intro to.
 
@@ -8,7 +8,7 @@ Built for Startup Weekend B2B, June 2014. Based on [Ratchet](http://goratchet.co
 
 [Mobile web demo](http://connectomatic.herokuapp.com/)
 
-###Features
+## Features
 
 * View recent LinkedIn connections
 * Add notes and reminders
@@ -17,14 +17,20 @@ Built for Startup Weekend B2B, June 2014. Based on [Ratchet](http://goratchet.co
 * Search to jog your memory
 * Custom tags and auto-generated tags
 
-###Screenshots
+## Screenshots
 
-
+### Landing page
 
 ![image](https://raw.githubusercontent.com/jennielees/connectomatic/master/screenshots/home_2.png)
 
+### Nearby people
+
 ![image](https://raw.githubusercontent.com/jennielees/connectomatic/master/screenshots/home_3.png)
 
+### User profile
+
 ![image](https://raw.githubusercontent.com/jennielees/connectomatic/master/screenshots/tags_1.png)
+
+### Connection screen
 
 ![image](https://raw.githubusercontent.com/jennielees/connectomatic/master/screenshots/intro_2.png)
